@@ -1,0 +1,17 @@
+<svg width="760" height="240" viewBox="0 0 760 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Lab Desk">
+  <rect width="760" height="240" rx="26" fill="#fff8ef"/>
+  <rect x="18" y="18" width="724" height="204" rx="20" fill="#f3dec1" stroke="#b58a5b" stroke-width="2"/>
+  <rect x="48" y="70" width="664" height="118" rx="12" fill="#6c442e"/>
+  <rect x="60" y="82" width="92" height="106" rx="7" fill="#405f8f"/>
+  <rect x="164" y="54" width="74" height="134" rx="7" fill="#c89b3c"/>
+  <rect x="250" y="90" width="58" height="98" rx="7" fill="#23324f"/>
+  <rect x="320" y="72" width="86" height="116" rx="7" fill="#7d3345"/>
+  <rect x="418" y="100" width="54" height="88" rx="7" fill="#4a6b59"/>
+  <rect x="486" y="68" width="78" height="120" rx="7" fill="#405f8f"/>
+  <rect x="578" y="112" width="90" height="76" rx="9" fill="#c89b3c"/>
+  <line x1="48" y1="194" x2="712" y2="194" stroke="#2f261f" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="660" cy="54" r="20" fill="#ffe3ac"/>
+  <text x="56" y="42" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#2f261f">🧪 Project Stack</text>
+  <text x="56" y="222" font-family="Arial, sans-serif" font-size="18" fill="#fff8ef">agents · notes · experiments</text>
+  <text x="364" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#fff8ef">AI Lab Desk</text>
+</svg>
