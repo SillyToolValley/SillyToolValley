@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/SillyToolValleyBanner3_2-removebg.png" alt="Silly Tool Valley" width="640">
+  <img src="assets/SillyToolValleyBanner3_2-removebg.png" alt="Silly Tool Valley" width="320">
 
 # Silly Tool Valley
 
