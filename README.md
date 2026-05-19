@@ -1,6 +1,6 @@
 <img align="left" src="assets/SillyToolValleyBanner3_2-removebg.png" alt="Silly Tool Valley" width="320">
 
-<h1>Silly Tool Valley</h1>
+<p><strong>Silly Tool Valley</strong></p>
 
 <p><strong>Less busywork. More gamedev.</strong></p>
 
