@@ -1,5 +1,3 @@
-<img align="left" src="assets/SillyToolValleyBanner3_2-removebg.png" alt="Silly Tool Valley" width="320">
-
 <p><strong>Silly Tool Valley</strong></p>
 
 <p><strong>Less busywork. More gamedev.</strong></p>
